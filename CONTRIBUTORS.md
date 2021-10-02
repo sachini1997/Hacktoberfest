@@ -76,6 +76,11 @@
 - Bio: Student, Developer
 - Github: [weiyi-m](https://github.com/weiyi-m)
 
+#### Name: Jishnu Biju
+- Place: Kerala, India
+- Bio: Student
+- Github: [jishnu075(https://github.com/jishnu075)
+
 #### Name: Vikrant Rajput
 - Place: Uttar Pradesh, India
 - Bio: Student
