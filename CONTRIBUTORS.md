@@ -47,44 +47,69 @@
 - GitHub: [Chandana](https://github.com/chandu6111)
 
 #### Name: Chaitanya Santosh Tekane
+
 - Place: Maharashtra, India
 - Bio: Student, MERN Developer
 - GitHub: [Chaitanya](https://github.com/chaitanyatekane)
 
 #### Name: Teona Mushambadze
+
 - Place: Batumi, Georgia
 - Bio: Developer
 - Github: [Highflyer910](https://github.com/highflyer910)
 
 #### Name: Parth Mistry
+
 - Place: Bilimora, Gujarat, India
 - Bio: Student, Developer
 - Github: [m-prth](https://github.com/m-prth)
 
 ### Name: Dhruv Desai
+
 - Place: Vadodara, Gujarat, India
 - Bio: Developer
 - Github: [dhruv1214](https://github.com/dhruv1214)
 
 ### Name: Indrashis Mitra
+
 - Place: W.B, India
 - Bio: Student, Developer
 - Github: [indrashismitra](https://github.com/indrashismitra)
 
 #### Name: Weiyi Ma
+
 - Place: Singapore, Singapore
 - Bio: Student, Developer
 - Github: [weiyi-m](https://github.com/weiyi-m)
 
+#### Name: Jishnu Biju
+- Place: Kerala, India
+- Bio: Student
+- Github: [jishnu075(https://github.com/jishnu075)
+
 #### Name: Vikrant Rajput
+
 - Place: Uttar Pradesh, India
 - Bio: Student
 - Github: [VikrantRajput1408](https://github.com/VikrantRajput1408)
+
 #### Name: Wongy
+
 - Place: Australia
 - Bio: Engineer
 - Github: [wongy](https://github.com/dwongdev)
+
 #### Name: Aakarshan Kumar
 - Place: Texas, U.S.A
 - Bio: Student, Developer
 - Github: [aakarshank](https://github.com/aakarshank)
+
+### Name: Umesha Nirmani
+- Place: Sri Lanka
+- Bio: Student
+- Github: [UmeshaNirmani](https://github.com/UmeshaNirmani)
+
+#### Name: Uddeepta Raaj Kashyap
+- Place: India
+- Bio: Student
+- Github: [uddeepta12](https://github.com/uddeepta12)
