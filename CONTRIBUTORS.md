@@ -84,3 +84,7 @@
 - Place: Australia
 - Bio: Engineer
 - Github: [wongy](https://github.com/dwongdev)
+#### Name: Aakarshan Kumar
+-Place: Texas, U.S.A
+- Bio: Student, Developer
+- Github: [aakarshank](https://github.com/aakarshank)
