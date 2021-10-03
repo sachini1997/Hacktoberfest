@@ -82,6 +82,11 @@
 - Bio: Student, Developer
 - Github: [weiyi-m](https://github.com/weiyi-m)
 
+#### Name: Jishnu Biju
+- Place: Kerala, India
+- Bio: Student
+- Github: [jishnu075(https://github.com/jishnu075)
+
 #### Name: Vikrant Rajput
 
 - Place: Uttar Pradesh, India
@@ -95,7 +100,11 @@
 - Github: [wongy](https://github.com/dwongdev)
 
 ### Name: Umesha Nirmani
-
 - Place: Sri Lanka
 - Bio: Student
 - Github: [UmeshaNirmani](https://github.com/UmeshaNirmani)
+
+#### Name: Uddeepta Raaj Kashyap
+- Place: India
+- Bio: Student
+- Github: [uddeepta12](https://github.com/uddeepta12)
