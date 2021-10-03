@@ -113,3 +113,8 @@
 - Place: India
 - Bio: Student
 - Github: [uddeepta12](https://github.com/uddeepta12)
+
+#### Name: Lalith Akash
+- Place: India
+- Bio: Student
+- Github: [CartoonProgrammers](https://github.com/CartoonProgrammers)
