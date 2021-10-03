@@ -1,3 +1,9 @@
+#### Name: Junaid Shah
+
+- Place: Srinagar, J&K, India
+- Bio: Developer
+- GitHub: [Junaid shah](https://github.com/jsh854)
+
 #### Name: Prashant Agheda
 
 - Place: Pune, Maharashtra, India
