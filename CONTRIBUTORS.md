@@ -89,6 +89,7 @@
 - Github: [weiyi-m](https://github.com/weiyi-m)
 
 #### Name: Jishnu Biju
+
 - Place: Kerala, India
 - Bio: Student
 - Github: [jishnu075(https://github.com/jishnu075)
@@ -106,21 +107,31 @@
 - Github: [wongy](https://github.com/dwongdev)
 
 #### Name: Aakarshan Kumar
+
 - Place: Texas, U.S.A
 - Bio: Student, Developer
 - Github: [aakarshank](https://github.com/aakarshank)
 
 ### Name: Umesha Nirmani
+
 - Place: Sri Lanka
 - Bio: Student
 - Github: [UmeshaNirmani](https://github.com/UmeshaNirmani)
 
 #### Name: Uddeepta Raaj Kashyap
+
 - Place: India
 - Bio: Student
 - Github: [uddeepta12](https://github.com/uddeepta12)
 
 #### Name: Lalith Akash
+
 - Place: India
 - Bio: Student
 - Github: [CartoonProgrammers](https://github.com/CartoonProgrammers)
+
+#### Name: Ripunjay Kumar
+
+- Place: India
+- Bio: Student
+- Github: [RIPUNJAY287](https://github.com/RIPUNJAY287)
