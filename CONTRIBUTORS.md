@@ -84,3 +84,7 @@
 - Place: Australia
 - Bio: Engineer
 - Github: [wongy](https://github.com/dwongdev)
+#### Name: Uddeepta Raaj Kashyap
+- Place: India
+- Bio: Student
+- Github: [uddeepta12](https://github.com/uddeepta12)
