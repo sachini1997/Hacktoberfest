@@ -143,3 +143,8 @@
 - Place: Bekasi, Indonesia
 - Bio: Web Designer
 - Github: [MuamarHilmi](https://github.com/MuamarHilmi)
+#### Name: Dinsha Jaiswal
+
+- Place: India
+- Bio: Student
+- Github: [fleurdelis07](https://github.com/fleurdelis07)
