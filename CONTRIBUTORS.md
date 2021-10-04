@@ -130,8 +130,11 @@
 - Bio: Student
 - Github: [CartoonProgrammers](https://github.com/CartoonProgrammers)
 
+#### Name: Nikita jain
+- Place: India
+- Bio: Student
+- Github: [nikita-jain-01](https://github.com/nikita-jain-01)
 #### Name: Ripunjay Kumar
-
 - Place: India
 - Bio: Student
 - Github: [RIPUNJAY287](https://github.com/RIPUNJAY287)
