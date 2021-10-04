@@ -1,4 +1,4 @@
-// LANGUAGE: Js
+// LANGUAGE: java script
 // AUTHOR: Muamar Hilmi
 // GITHUB: https://github.com/MuamarHilmi
 
