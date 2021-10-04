@@ -138,3 +138,9 @@
 - Place: India
 - Bio: Student
 - Github: [RIPUNJAY287](https://github.com/RIPUNJAY287)
+
+#### Name: Dinsha Jaiswal
+
+- Place: India
+- Bio: Student
+- Github: [fleurdelis07](https://github.com/fleurdelis07)
