@@ -131,25 +131,37 @@
 - Github: [CartoonProgrammers](https://github.com/CartoonProgrammers)
 
 #### Name: Nikita jain
+
 - Place: India
 - Bio: Student
 - Github: [nikita-jain-01](https://github.com/nikita-jain-01)
+
 #### Name: Ripunjay Kumar
+
 - Place: India
 - Bio: Student
 - Github: [RIPUNJAY287](https://github.com/RIPUNJAY287)
 
 #### Name: Muamar Hilmi
+
 - Place: Bekasi, Indonesia
 - Bio: Web Designer
 - Github: [MuamarHilmi](https://github.com/MuamarHilmi)
+
 #### Name: Dinsha Jaiswal
 
 - Place: India
 - Bio: Student
 - Github: [fleurdelis07](https://github.com/fleurdelis07)
+
 #### Name: Cameron Anderson
 
 - Place: Wisconsin , USA
-- Bio: Chef / studying to be a web developer 
+- Bio: Chef / studying to be a web developer
 - Github: [T3ter](https://github.com/T3ter)
+
+#### Name: Sourav Panigrahi
+
+- Place: India
+- Bio: Student
+- Github: [souravpanigrahi](https://github.com/souravpanigrahi)
