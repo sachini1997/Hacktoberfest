@@ -148,3 +148,8 @@
 - Place: India
 - Bio: Student
 - Github: [fleurdelis07](https://github.com/fleurdelis07)
+#### Name: Cameron Anderson
+
+- Place: Wisconsin , USA
+- Bio: Chef / studying to be a web developer 
+- Github: [T3ter](https://github.com/T3ter)
