@@ -153,3 +153,9 @@
 - Place: Wisconsin , USA
 - Bio: Chef / studying to be a web developer 
 - Github: [T3ter](https://github.com/T3ter)
+
+#### Name: Dinindu Chamikara
+
+- Place: Sri Lanka
+- Bio: Undergraduate Student 
+- Github: [Dinindu Chamikara](https://github.com/DininduChamikara)
